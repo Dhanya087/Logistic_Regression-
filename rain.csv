@@ -1,0 +1,8 @@
+pressure,Temperature (Celsius),Humidity (%),Rain (Yes/No)
+20,20,65,No
+10,25,40,No
+30,18,80,Yes
+30,15,70,Yes
+30,28,50,No
+20,22,90,Yes
+20,12,35,No
